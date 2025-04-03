@@ -1,0 +1,12 @@
+{
+  "events": {
+    "concert": {
+      "title": "Concert",
+      "description": "dance en direct"
+    },
+    "workshop": {
+      "title": "Atelier",
+      "description": "Conférence musique"
+    }
+  }
+}

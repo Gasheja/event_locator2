@@ -1,0 +1,7 @@
+{
+  "user_exists": "User already exists",
+  "server_error": "Server error",
+  "invalid_credentials": "Invalid credentials",
+  "no_token": "No token provided",
+  "invalid_token": "Invalid token"
+}
