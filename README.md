@@ -19,7 +19,7 @@ Develop a multi-user event locator application allowing users to discover events
 ---
 
 ### 🔍 Location-Based Search
-- Implement a **🔎 search functionality** that allows users to find events within a specified radius of their location.
+- I Implemented a **🔎 search functionality** that allows users to find events within a specified radius of their location.
 
 ---
 
@@ -60,7 +60,7 @@ Develop a multi-user event locator application allowing users to discover events
 ## ⚙️ Technical Considerations
 
 ### 🗃️ Databases
-- Choose a **💾 relational database** (e.g., PostgreSQL with PostGIS) to store user data, event data, and location information.
+- I have used **💾 relational database** (e.g., PostgreSQL with PostGIS) to store user data, event data, and location information.
 
 ### 📦 Queuing System
 - Use **🔄 Redis Pub/Sub** or **📬 RabbitMQ** to manage asynchronous notifications.
@@ -85,12 +85,12 @@ Develop a multi-user event locator application allowing users to discover events
 
 ## 🔗 Important Links
 
-- Link to the video: 
+- Link to the video: https://youtu.be/Sl7klWQSVbI?feature=shared
 
 
 ---
 
 ## 📝 Author
 Mugisha Gasheja 
-Email:m.gasheja@alustudent.com
+Email: m.gasheja@alustudent.com
 
